@@ -1,0 +1,28 @@
+{
+  "name": "everyauth-password",
+  "version": "0.0.0",
+  "description": "Password plugin for everyauth",
+  "main": "index.js",
+  "peerDependencies": {
+    "everyauth": "git://github.com/neutronth/everyauth.git#0.5.x"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/neutronth/everyauth-password"
+  },
+  "keywords": [
+    "everyauth",
+    "login",
+    "password",
+    "auth"
+  ],
+  "author": { "Brian N Noguchi", "Neutron Soutmun <neo.neutron@gmail.com>" },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neutronth/everyauth-password/issues"
+  },
+  "homepage": "https://github.com/neutronth/everyauth-password"
+}
