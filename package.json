@@ -4,7 +4,7 @@
   "description": "Password plugin for everyauth",
   "main": "index.js",
   "peerDependencies": {
-    "everyauth": "git://github.com/neutronth/everyauth.git#0.5.x"
+    "everyauth": "0.5.x"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
