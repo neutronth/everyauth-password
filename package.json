@@ -19,7 +19,10 @@
     "password",
     "auth"
   ],
-  "author": { "Brian N Noguchi", "Neutron Soutmun <neo.neutron@gmail.com>" },
+  "author": "Brian N Noguchi",
+  "contributors": [
+    "Neutron Soutmun <neo.neutron@gmail.com>"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/neutronth/everyauth-password/issues"
