@@ -14,7 +14,7 @@ exports = module.exports = function (everyauth) {
   .loginFormFieldName('login')
   .passwordFormFieldName('password')
 
-  .get('addRequestLocals', "the login page's uri path.")
+  .get('addRequestLocals', "add configured variables to locals")
     .step('doAddRequestLocals')
       .accepts('req res next')
       .promises(null)
